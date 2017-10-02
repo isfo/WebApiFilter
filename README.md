@@ -13,6 +13,7 @@ Desenvolvida com a intenção de facilitar o filtro via URl.
 **where**: Define regras de filtragem a partir de expressões lógicas. **Ex:** where=nome contains e,sexo = M
 
 #4 Casos de WHERE
+
 | Expressões        | Ex                                                        |
 | ----------------- | :-------------------------------------------------------: |
 | <=                | dtnascimento <= 2017-09-26T11:35:25                       |
